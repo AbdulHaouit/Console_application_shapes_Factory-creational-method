@@ -1,2 +1,2 @@
 # My_C-Sharp_Projects
-C# Projects
+Different projects that include only C#, refer to '.pdf' for more details on the desired project.
